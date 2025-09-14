@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629071960596",
+    "project_id": "worldclock-118f7",
+    "storage_bucket": "worldclock-118f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629071960596:android:788c46ed7e83442693e501",
+        "android_client_info": {
+          "package_name": "com.example.world_clock_case"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSCJOOXFLASSlOwXTLc6hwGfx6r5TeroM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
